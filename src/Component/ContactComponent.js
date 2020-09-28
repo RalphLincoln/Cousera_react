@@ -207,7 +207,6 @@ class Contact extends Component {
                         </LocalForm>
                     </div>
                 </div>
-
             </div>
         );
     }
